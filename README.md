@@ -1,2 +1,2 @@
-# Codsoft_portfolio
-Codsoft_level1-task1_portfolio
+# Codsoft_landingpage
+Codsoft_level1-task1_landingpage
