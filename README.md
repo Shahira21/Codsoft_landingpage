@@ -1,2 +1,2 @@
 # Codsoft_landingpage
-Codsoft_level1-task1_landingpage
+Codsoft_level1-task2_landingpage
